@@ -24,6 +24,7 @@ Fire ... map
 
 Code breakdown
 
+```
 Code line Addr  Purpose
 0138-0167 $1014 Main game loop
 0172-0221 $1045 Map display (when holding down I)
@@ -33,3 +34,4 @@ Code line Addr  Purpose
 1344-1556 $1771 Raycast using DDC
 1558-1741 $18a7 Texturemap and end display loop
 1787-2113 $19b0 Player collision and movement code
+```
